@@ -243,6 +243,22 @@ Tambahkan ke <section id="main">:
 ## Penjelasan
 Bagian artikel menampilkan konten utama dalam layout dengan gambar di sisi kiri dan teks di sisi kanan.
 
+###  Screenshot Hasil
+```
+```
+![Tampilan Hasil](gambar1.png)
+```
+```
+###  Screenshot Hasil
+![Tampilan Hasil](gambar2.png)
+
+###  Screenshot Layout Sederhana (Home)
+![Tampilan Layout Sederhana](home1.png)
+
+### Screenshot (home 2)
+![Tampilan home](home2.png)
+
+
 ### Tugas
 ## 1. Tambahkan layout untuk menu About (berisi deskripsi dan portfolio).
 ## 2. Tambahkan layout untuk menu Contact (berisi form: nama, email, pesan, dll).
@@ -337,21 +353,6 @@ Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
 ```
 ![Screenshot Halaman Contact](contact1.png)
 ```
-```
-###  Screenshot Hasil
-```
-```
-![Tampilan Hasil](gambar1.png)
-```
-```
-###  Screenshot Hasil
-![Tampilan Hasil](gambar2.png)
-
-###  Screenshot Layout Sederhana (Home)
-![Tampilan Layout Sederhana](home1.png)
-
-### Screenshot (home 2)
-![Tampilan home](home2.png)
 
 
 
