@@ -151,3 +151,143 @@ nav a.active, nav a:hover {
 ## Penjelasan
 Bagian ini mengatur tampilan halaman agar memiliki warna, jarak, dan bayangan yang rapi.
 
+### 6️⃣ Membuat Hero Panel
+Tambahkan di bawah navigasi:
+```html
+<section id="hero">
+    <h1>Hello World!</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <a href="#" class="btn btn-large">Learn more »</a>
+</section>
+#hero {
+    background-color: #e4e4e5;
+    padding: 50px 20px;
+    margin-bottom: 20px;
+}
+#hero h1 { font-size: 35px; }
+#hero p { font-size: 18px; line-height: 25px; }
+```
+## Penjelasan
+Bagian hero digunakan untuk menampilkan pesan utama pada halaman utama, biasanya sebagai pengantar website.
+
+### 7️⃣ Mengatur Main Content & Sidebar
+Tambahkan CSS berikut:
+```css
+#wrapper { margin: 0; }
+#main {
+    float: left;
+    width: 640px;
+    padding: 20px;
+}
+#sidebar {
+    float: left;
+    width: 260px;
+    padding: 20px;
+}
+```
+## Penjelasan
+Bagian ini membagi halaman menjadi dua kolom — main content dan sidebar — menggunakan teknik float layout.
+
+### 8️⃣ Membuat Sidebar Widget
+Tambahkan ke dalam <aside id="sidebar">:
+```html
+<div class="widget-box">
+    <h3 class="title">Widget Header</h3>
+    <ul>
+        <li><a href="#">Widget Link</a></li>
+        <li><a href="#">Widget Link</a></li>
+    </ul>
+</div>
+.widget-box {
+    border: 1px solid #eee;
+    margin-bottom: 20px;
+}
+.widget-box .title {
+    padding: 10px;
+    background-color: #428bca;
+    color: #fff;
+}
+```
+## Penjelasan
+Widget ini menampilkan daftar tautan atau informasi tambahan di bagian sidebar.
+
+### 9️⃣ Mengatur Footer
+Tambahkan CSS berikut:
+```css
+footer {
+    clear: both;
+    background-color: #1d1d1d;
+    padding: 20px;
+    color: #eee;
+}
+```
+## Penjelasan
+Footer menutup halaman dan memberikan informasi hak cipta atau kontak singkat.
+
+### 🔟 Menambahkan Konten Artikel
+Tambahkan ke <section id="main">:
+```html
+<article class="entry">
+    <h2>First featurette heading.</h2>
+    <img src="https://dummyimage.com/150/7b8a70/fff.png" alt="">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</article>
+.entry img {
+    float: left;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+.entry h2 { margin-bottom: 20px; }
+.entry p { line-height: 25px; }
+```
+## Penjelasan
+Bagian artikel menampilkan konten utama dalam layout dengan gambar di sisi kiri dan teks di sisi kanan.
+
+### Tugas
+## 1. Tambahkan layout untuk menu About (berisi deskripsi dan portfolio).
+## 2. Tambahkan layout untuk menu Contact (berisi form: nama, email, pesan, dll).
+
+## 🧩 Tugas 1 - Halaman About
+
+### 📄 Deskripsi Umum
+Halaman **About** merupakan pengembangan dari layout utama yang dibuat pada Praktikum 4.  
+Tujuan dari halaman ini adalah menampilkan **profil pembuat website** serta **beberapa contoh portfolio proyek** hasil latihan.  
+Halaman ini tetap menggunakan struktur layout utama (`header`, `nav`, `main`, `sidebar`, dan `footer`), tetapi dengan **konten dan gaya tampilan yang lebih personal**.
+
+---
+
+### 🧱 Struktur Halaman
+Bagian utama pada halaman **About** terdiri dari:
+
+1. **Header**  
+   Berfungsi menampilkan judul situs “Layout Sederhana” agar konsisten dengan halaman lainnya.  
+
+2. **Navigasi (Navbar)**  
+   Berisi tautan ke halaman Home, About, dan Contact.  
+   Menu *About* ditandai aktif karena halaman ini sedang dibuka.  
+
+3. **Bagian Utama (Main Content)**  
+   - Menampilkan **profil Afdhal Agislam**, yang berisi foto dan deskripsi singkat.  
+   - Di bawah profil terdapat bagian **Portfolio**, yang menampilkan tiga proyek hasil latihan:  
+     - Web Layout Project  
+     - Box Element Demo  
+     - Personal Web Design  
+   Setiap proyek ditampilkan dalam bentuk kartu (card) dengan gambar dan keterangan singkat.  
+
+4. **Sidebar**  
+   Berisi widget berjudul *Tentang Halaman Ini* yang memberikan penjelasan tambahan tentang isi halaman dan tujuan pembuatannya.  
+
+5. **Footer**  
+   Menampilkan informasi hak cipta dengan nama pembuat web: *Afdhal Agislam – Universitas Pelita Bangsa (2025)*.  
+
+---
+
+###  Screenshot Halaman About
+Berikut tampilan hasil akhir halaman **About**:
+
+![Screenshot Halaman About](images/about-page.png)
+
+*(Gantilah `images/about-page.png` dengan nama dan lokasi file screenshot-mu di repositori GitHub.)*
+
+---
+
