@@ -46,7 +46,7 @@ Tambahkan elemen div di dalam <section> untuk membuat beberapa box.
 </section>
 ```
 ## Tambahkan code css di bagian <head>:
-```css
+```html
 <style>
     div {
         float: left;
@@ -64,7 +64,6 @@ Kode di atas membuat tiga kotak sejajar menggunakan CSS float. Setiap kotak dibe
 Tambahkan elemen tambahan untuk melihat efek dari properti clear.
 ```html
 <div class="div4">Div 4</div>
-```css
 .div4 {
     background-color: blue;
     clear: left;
