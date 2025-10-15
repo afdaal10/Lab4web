@@ -234,7 +234,7 @@ footer {
 Footer menutup halaman dan memberikan informasi hak cipta atau kontak singkat.
 
 ### 🔟 Menambahkan Konten Artikel
-Tambahkan ke <section id="main">:
+
 ```html
 <article class="entry">
     <h2>First featurette heading.</h2>
