@@ -247,16 +247,16 @@ Bagian artikel menampilkan konten utama dalam layout dengan gambar di sisi kiri 
 ## 1. Tambahkan layout untuk menu About (berisi deskripsi dan portfolio).
 ## 2. Tambahkan layout untuk menu Contact (berisi form: nama, email, pesan, dll).
 
-## 🧩 Tugas 1 - Halaman About
+##  Tugas 1 - Halaman About
 
-### 📄 Deskripsi Umum
+###  Deskripsi Umum
 Halaman **About** merupakan pengembangan dari layout utama yang dibuat pada Praktikum 4.  
 Tujuan dari halaman ini adalah menampilkan **profil pembuat website** serta **beberapa contoh portfolio proyek** hasil latihan.  
 Halaman ini tetap menggunakan struktur layout utama (`header`, `nav`, `main`, `sidebar`, dan `footer`), tetapi dengan **konten dan gaya tampilan yang lebih personal**.
 
 ---
 
-### 🧱 Struktur Halaman
+###  Struktur Halaman
 Bagian utama pada halaman **About** terdiri dari:
 
 1. **Header**  
@@ -286,6 +286,56 @@ Bagian utama pada halaman **About** terdiri dari:
 Berikut tampilan hasil akhir halaman **About**:
 
 ![Screenshot Halaman About](about.png)
+```
+##  Tugas 2 - Halaman Contact
+
+### 📄 Deskripsi Umum
+Halaman **Contact (Kontak)** merupakan tugas kedua dari Praktikum 4 – CSS Layout.  
+Tujuan pembuatan halaman ini adalah menyediakan **formulir interaktif** bagi pengunjung agar dapat menghubungi pembuat website, memberikan saran, pertanyaan, atau permintaan kerja sama.  
+Halaman ini menggunakan struktur layout yang sama seperti halaman utama (`home.html`) dan halaman `about.html`, namun memiliki isi dan gaya khusus yang difokuskan pada komunikasi dengan pengguna.
+
+---
+
+###  Struktur Halaman
+Secara keseluruhan, halaman **Contact** terdiri dari beberapa bagian penting:
+
+1. **Header**  
+   Menampilkan judul situs “Layout Sederhana” di bagian atas halaman agar tetap konsisten dengan desain halaman lainnya.  
+
+2. **Navigasi (Navbar)**  
+   Menyediakan tautan ke halaman *Home*, *About*, dan *Kontak*.  
+   Pada halaman ini, menu *Kontak* diberikan tanda aktif (highlight) agar pengguna tahu bahwa halaman ini sedang dibuka.  
+
+3. **Konten Utama (Main Content)**  
+   Bagian utama berisi:
+   - **Judul halaman “Hubungi Kami”** dan paragraf pembuka yang menjelaskan tujuan dari halaman ini.  
+   - **Formulir kontak** dengan kolom input:  
+     - **Nama Lengkap**  
+     - **Email**  
+     - **Pesan**  
+     Setiap kolom memiliki label yang jelas dan wajib diisi sebelum mengirimkan pesan.  
+   - Di bawah formulir terdapat bagian **Informasi Kontak**, yang memuat:  
+     - Nama: *Afdhal Agislam*  
+     - Email: *afdhal.agislam@example.com*  
+     - Alamat: *Kp. Mengker, Kecamatan Jonggol, Kabupaten Bogor*  
+     - Akun Instagram: *@afdhalagislam*  
+     Bagian ini berfungsi sebagai kontak langsung jika pengguna ingin menghubungi melalui media lain.  
+
+4. **Sidebar**  
+   Sidebar berisi widget dengan judul *“Bantuan”*, berisi penjelasan singkat tentang cara menggunakan formulir dengan benar.  
+   Tujuannya adalah untuk membantu pengguna agar tidak salah dalam mengisi data.  
+
+5. **Footer**  
+   Terletak di bagian bawah halaman, menampilkan teks hak cipta dengan nama pembuat web dan tahun pembuatan:  
+   “© 2025 - Afdhal Agislam | Universitas Pelita Bangsa”.
+
+---
+###  Screenshot Halaman Contact
+Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
+
+![Screenshot Halaman Contact](contact1.png)
+```
+![Screenshot Halaman Contact](contact2.png)
 
 
 
