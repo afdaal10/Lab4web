@@ -338,8 +338,9 @@ Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
 ![Screenshot Halaman Contact](contact1.png)
 ```
 
-###  Screenshot Hasil 
-![Tampilan Halaman About](gambar1.png)
+###  Screenshot Hasil
+```
+![Tampilan Hasil](gambar1.png)
 
 ### 🖼️ Screenshot Hasil Halaman Contact
 ![Tampilan Halaman Contact](images/contact-page.png)
