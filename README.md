@@ -337,13 +337,14 @@ Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
 ```
 ![Screenshot Halaman Contact](contact1.png)
 ```
-
+```
 ###  Screenshot Hasil
 ```
 ![Tampilan Hasil](gambar1.png)
+```
 
-### 🖼️ Screenshot Hasil Halaman Contact
-![Tampilan Halaman Contact](images/contact-page.png)
+###  Screenshot Hasil
+![Tampilan Hasil](gambar2.png)
 
 ### 🖼️ Screenshot Layout Sederhana (Home)
 ![Tampilan Layout Sederhana](images/home-layout.png)
