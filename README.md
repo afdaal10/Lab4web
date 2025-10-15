@@ -285,9 +285,7 @@ Bagian utama pada halaman **About** terdiri dari:
 ###  Screenshot Halaman About
 Berikut tampilan hasil akhir halaman **About**:
 
-![Screenshot Halaman About](images/about-page.png)
+![Screenshot Halaman About](about.png)
 
-*(Gantilah `images/about-page.png` dengan nama dan lokasi file screenshot-mu di repositori GitHub.)*
 
----
 
