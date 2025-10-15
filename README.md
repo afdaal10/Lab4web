@@ -347,8 +347,8 @@ Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
 ###  Screenshot Hasil
 ![Tampilan Hasil](gambar2.png)
 
-### 🖼️ Screenshot Layout Sederhana (Home)
-![Tampilan Layout Sederhana](images/home-layout.png)
+###  Screenshot Layout Sederhana (Home)
+![Tampilan Layout Sederhana](home.png)
 
 ### 🖼️ Screenshot Box Element
 ![Tampilan Box Element](images/box-element.png)
