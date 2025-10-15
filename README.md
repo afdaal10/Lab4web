@@ -34,3 +34,43 @@ Pada praktikum ini, mahasiswa diharapkan mampu:
 ```
 ## Penjelasan
 Langkah ini membuat struktur HTML dasar yang akan digunakan untuk percobaan Box Element.
+
+### 2️⃣ Membuat Box Element
+
+Tambahkan elemen div di dalam <section> untuk membuat beberapa box.
+```html
+<section>
+    <div class="div1">Div 1</div>
+    <div class="div2">Div 2</div>
+    <div class="div3">Div 3</div>       
+</section>
+```
+## Tambahkan code css di bagian <head>:
+```css
+<style>
+    div {
+        float: left;
+        padding: 10px;
+    }
+    .div1 { background: red; }
+    .div2 { background: yellow; }
+    .div3 { background: green; }
+</style>
+```
+## Penjelasan
+Kode di atas membuat tiga kotak sejajar menggunakan CSS float. Setiap kotak diberi warna berbeda agar terlihat jelas.
+
+### 3️⃣ Mengatur Clearfix Element
+Tambahkan elemen tambahan untuk melihat efek dari properti clear.
+```html
+<div class="div4">Div 4</div>
+```css
+.div4 {
+    background-color: blue;
+    clear: left;
+    float: none;
+}
+```
+## Penjelasan
+Properti clear: left digunakan agar “Div 4” tampil di bawah tiga kotak sebelumnya, bukan sejajar dengan mereka.
+
