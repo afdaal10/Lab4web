@@ -340,9 +340,10 @@ Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
 ```
 ###  Screenshot Hasil
 ```
+```
 ![Tampilan Hasil](gambar1.png)
 ```
-
+```
 ###  Screenshot Hasil
 ![Tampilan Hasil](gambar2.png)
 
