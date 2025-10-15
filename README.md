@@ -1,3 +1,10 @@
+# Identitas Mahasiswa
+
+**Nama :** Afdhal Agislam  
+**NIM :** 312410445  
+**Kelas :** TI.24.A5  
+
+
 #  Praktikum 4 - CSS Layout
 
 ##  Tujuan
@@ -353,7 +360,33 @@ Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
 ```
 ![Screenshot Halaman Contact](contact1.png)
 ```
+```
+##  Kesimpulan Akhir Praktikum 4 - CSS Layout
 
+Pada Praktikum 4 ini, mahasiswa telah mempelajari dan mempraktikkan dasar-dasar pembuatan **layout website** menggunakan **HTML5** dan **CSS**.  
+Beberapa hal penting yang dapat disimpulkan dari hasil praktikum adalah sebagai berikut:
 
+1. **Pemahaman Konsep Box Model**  
+   Mahasiswa memahami bahwa setiap elemen HTML memiliki struktur seperti kotak (Box) yang terdiri dari *margin, border, padding,* dan *content*.  
+   Konsep ini menjadi dasar dalam mengatur tata letak elemen di halaman web.
+
+2. **Penerapan CSS Float dan Clearfix**  
+   Teknik *float* digunakan untuk mengatur posisi elemen agar sejajar, sementara *clear* digunakan untuk mengatur posisi elemen setelah elemen float agar tata letak tetap rapi.
+
+3. **Penggunaan HTML5 Semantic Elements**  
+   Elemen seperti `<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, dan `<footer>` digunakan agar struktur halaman web lebih jelas, mudah dibaca, dan sesuai standar modern.
+
+4. **Pembuatan Layout Web Sederhana**  
+   Melalui file `home.html` dan `style.css`, mahasiswa berhasil membuat struktur halaman lengkap dengan header, navigasi, hero, konten utama, sidebar, dan footer.
+
+5. **Pengembangan Halaman Tambahan (About dan Contact)**  
+   - Halaman **About** menampilkan informasi profil dan portfolio pembuat web.  
+   - Halaman **Contact** menyediakan formulir komunikasi yang interaktif dan informatif.  
+   Keduanya menunjukkan kemampuan untuk mengembangkan layout dasar menjadi website yang fungsional dan konsisten secara desain.
+
+6. **Penerapan Desain Responsif dan Estetika Dasar**  
+   Dengan memanfaatkan *Flexbox*, *box-shadow*, dan *border-radius*, tampilan web menjadi lebih modern, bersih, dan mudah diakses di berbagai ukuran layar.
+
+---
 
 
