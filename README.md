@@ -287,9 +287,10 @@ Berikut tampilan hasil akhir halaman **About**:
 
 ![Screenshot Halaman About](about.png)
 ```
-##  Tugas 2 - Halaman Contact
+```
+### Tugas 2 - Halaman Contact
 
-### 📄 Deskripsi Umum
+###  Deskripsi Umum
 Halaman **Contact (Kontak)** merupakan tugas kedua dari Praktikum 4 – CSS Layout.  
 Tujuan pembuatan halaman ini adalah menyediakan **formulir interaktif** bagi pengunjung agar dapat menghubungi pembuat website, memberikan saran, pertanyaan, atau permintaan kerja sama.  
 Halaman ini menggunakan struktur layout yang sama seperti halaman utama (`home.html`) dan halaman `about.html`, namun memiliki isi dan gaya khusus yang difokuskan pada komunikasi dengan pengguna.
@@ -332,7 +333,7 @@ Secara keseluruhan, halaman **Contact** terdiri dari beberapa bagian penting:
 ---
 ###  Screenshot Halaman Contact
 Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
-
+```
 ![Screenshot Halaman Contact](contact1.png)
 ```
 ![Screenshot Halaman Contact](contact2.png)
