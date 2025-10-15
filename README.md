@@ -348,10 +348,10 @@ Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
 ![Tampilan Hasil](gambar2.png)
 
 ###  Screenshot Layout Sederhana (Home)
-![Tampilan Layout Sederhana](home.png)
+![Tampilan Layout Sederhana](home1.png)
 
-### 🖼️ Screenshot Box Element
-![Tampilan Box Element](images/box-element.png)
+### Screenshot (home 2)
+![Tampilan home](home2.png)
 
 
 
