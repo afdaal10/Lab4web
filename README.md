@@ -334,6 +334,7 @@ Secara keseluruhan, halaman **Contact** terdiri dari beberapa bagian penting:
 ###  Screenshot Halaman Contact
 Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
 ```
+```
 ![Screenshot Halaman Contact](contact1.png)
 ```
 ![Screenshot Halaman Contact](contact2.png)
