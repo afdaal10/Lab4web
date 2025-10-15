@@ -117,7 +117,9 @@ Isi file home.html sebagai berikut:
 </html>
 ```
 ## Penjelasan
-Struktur ini menggunakan HTML5 Semantic Elements seperti <header>, <nav>, <section>, <aside>, dan <footer> untuk membuat layout yang lebih terstruktur.
+Struktur ini menggunakan HTML5 Semantic Elements seperti 
+`<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, dan `<footer>` 
+untuk membuat layout yang lebih terstruktur.
 
 ### 5️⃣ Styling Layout
 Tambahkan ke file style.css:
