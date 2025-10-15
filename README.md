@@ -336,6 +336,20 @@ Berikut hasil tampilan akhir dari halaman **Contact (Kontak)**:
 ```
 ```
 ![Screenshot Halaman Contact](contact1.png)
+```
+
+###  Screenshot Hasil 
+![Tampilan Halaman About](gambar1.png)
+
+### 🖼️ Screenshot Hasil Halaman Contact
+![Tampilan Halaman Contact](images/contact-page.png)
+
+### 🖼️ Screenshot Layout Sederhana (Home)
+![Tampilan Layout Sederhana](images/home-layout.png)
+
+### 🖼️ Screenshot Box Element
+![Tampilan Box Element](images/box-element.png)
+
 
 
 
